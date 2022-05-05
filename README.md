@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Frontend developer Hassab Abd</h1>
+<h1 align="center">Hi 👋, I'm Hassab Abd</h1>
 <h3 align="center">A frontend developer from Iraq</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassababd22" alt="hassababd22" /></a> </p>
